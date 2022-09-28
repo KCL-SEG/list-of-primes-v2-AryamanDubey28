@@ -19,4 +19,3 @@ def isPrimeChecker(number):
             return False   
     return True
 
-print(primes(-5))
